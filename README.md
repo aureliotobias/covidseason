@@ -3,4 +3,3 @@
 
 <br>
 <b>Reference:</b> Tobias A, Madaniyazi L, Ng CFS, Seposo X, Hashizume M. Can SARS-CoV-2 global seasonality be determined after one year of pandemic? (submitted for publication).
-.
